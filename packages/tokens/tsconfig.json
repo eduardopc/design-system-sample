@@ -1,0 +1,6 @@
+{
+  "extends": "@design-system-sample/ts-config/base.json",
+  "include": [
+    "src"
+  ]
+}
