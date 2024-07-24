@@ -16,6 +16,7 @@
     "@design-system-sample/eslint-config": "*",
     "@design-system-sample/tokens": "*",
     "@design-system-sample/ts-config": "*",
+    "phosphor-react": "^1.4.1",
     "polished": "^4.3.1",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
