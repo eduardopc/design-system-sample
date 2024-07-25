@@ -8,6 +8,13 @@ export default {
     src: 'https://github.com/eduardopc.png',
     alt: 'Eduardo Pacheco Avatar',
   },
+  argTypes: {
+    src: {
+      control: {
+        type: 'text',
+      },
+    },
+  },
 } as Meta<AvatarProps>
 
 export const Primary: StoryObj<AvatarProps> = {}
