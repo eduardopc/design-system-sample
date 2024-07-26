@@ -14,5 +14,4 @@ export const colors = {
   base300: '#00B37E',
   base500: '#00875F',
   base700: '#015F43',
-  base900: '#00291D',
 }
